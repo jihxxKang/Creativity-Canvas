@@ -1,6 +1,6 @@
-Draw Init
+###Draw Init
 
-“With the help of images, color palettes, and tracing, Draw Init makes drawing for new artists as easy as calling .init.”
+##“With the help of images, color palettes, and tracing, Draw Init makes drawing for new artists as easy as calling .init.”
 
 For more detailed information, please refer to the portfolio link below.
 
